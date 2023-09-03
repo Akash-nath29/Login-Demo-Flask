@@ -7,6 +7,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Akash-nath29/Login-Demo-Flask?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Akash-nath29/Login-Demo-Flask?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Akash-nath29/Login-Demo-Flask?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/Akash-nath29/Login-Demo-Flask)
+
 
 A simple and secure login system implemented using Flask. This system allows users to register, log in, and enjoy a seamless authentication experience.
 
